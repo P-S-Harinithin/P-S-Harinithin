@@ -1,39 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,45:18181B,75:312E81,100:0F766E&height=190&section=header&text=HARINITHIN%20P%20S&fontSize=48&fontColor=FFFFFF&fontAlignY=43&desc=ENGINEERING%20THE%20IDEAS%20BETWEEN%20CODE%20%26%20CIRCUITS&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="Harinithin P S header" />
+# Harinithin P S
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2600&pause=1000&color=5EEAD4&center=true&vCenter=true&width=760&lines=ECE+Engineer+%2F%2F+Software+Builder;Java+%2B+Python+%2B+React+%2B+ESP32;Building+at+the+intersection+of+code+and+circuits;AI+agents%2C+FinTech+tools%2C+and+useful+products" alt="Animated profile introduction" />
+### ECE Engineer · Software Builder · AI & Embedded Systems Explorer
 
-<br />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2600&pause=1000&color=5EEAD4&center=true&vCenter=true&width=760&lines=Building+at+the+intersection+of+code+and+circuits;AI+agents%2C+FinTech+tools%2C+and+useful+products;Java+%2B+Python+%2B+JavaScript+%2B+ESP32" alt="Animated profile introduction" />
 
-[![Email](https://img.shields.io/badge/LET'S_TALK-FF6B6B?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:harinithinps@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-A78BFA?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![GitHub](https://img.shields.io/badge/WORKSPACE-5EEAD4?style=for-the-badge&logo=github&logoColor=09090B)](https://github.com/P-S-Harinithin)
+<a href="mailto:harinithinps@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-FF6B6B?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-A78BFA?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+<a href="https://github.com/P-S-Harinithin"><img src="https://img.shields.io/badge/GITHUB-5EEAD4?style=for-the-badge&logo=github&logoColor=09090B" alt="GitHub" /></a>
 
 </div>
 
-<br />
+---
 
-<table align="center">
-<tr>
-<td width="58%" valign="top">
-
-## A little about me
+## About me
 
 I’m **Harinithin**, an Electronics and Communication Engineering student who enjoys turning practical problems into software, intelligent tools, and connected prototypes.
 
-My GitHub is a record of that journey—from an AI assistant for **stocks, crypto, and forex**, to web applications, cybersecurity experiments, and RFID-based embedded systems.
+My interests sit at the intersection of **web development, artificial intelligence, financial technology, cybersecurity, and embedded systems**. I learn by building, testing, debugging, and continuously improving real projects.
 
-</td>
-<td width="42%" valign="top">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-## Current coordinates
+### Current coordinates
 
 📍 India  
 🎓 ECE · VSB Engineering College  
-🧩 Java / Python / JavaScript  
-🔭 AI + FinTech + IoT  
+💻 Java · Python · JavaScript  
+🔭 AI · FinTech · IoT  
 ⚙️ Always building
+
+</td>
+<td width="50%" valign="top">
+
+### What I enjoy building
+
+- AI-powered research tools
+- Full-stack web applications
+- Cybersecurity experiments
+- RFID and IoT prototypes
+- Practical software for real users
 
 </td>
 </tr>
@@ -41,63 +49,79 @@ My GitHub is a record of that journey—from an AI assistant for **stocks, crypt
 
 ---
 
-## The stack I reach for
+## Technology stack
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-18181B?style=flat-square&logo=openjdk&logoColor=FF6B6B)
-![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=5EEAD4)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=FBBF24)
-![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-18181B?style=flat-square&logo=flask&logoColor=FFFFFF)
-![MySQL](https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=60A5FA)
-![Arduino](https://img.shields.io/badge/Arduino-18181B?style=flat-square&logo=arduino&logoColor=5EEAD4)
-![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F97316)
+![Java](https://img.shields.io/badge/Java-18181B?style=for-the-badge&logo=openjdk&logoColor=FF6B6B)
+![Python](https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=5EEAD4)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=FBBF24)
+![React](https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-18181B?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=60A5FA)
+![Arduino](https://img.shields.io/badge/Arduino-18181B?style=for-the-badge&logo=arduino&logoColor=5EEAD4)
+![Git](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F97316)
 
 </div>
 
+| Area | Technologies |
+|---|---|
+| Programming | Java, Python, JavaScript, Embedded C, SQL |
+| Web development | React, Vite, Flask, HTML, CSS |
+| AI and data | AI tools, stock analysis, chatbots, data analysis |
+| Embedded systems | ESP32, Arduino, RFID, GPS |
+| Tools | Git, GitHub, MySQL, Arduino IDE, PCB Design |
+
 ---
 
-## Selected work
+## Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 · [Investment Research Agent](https://github.com/P-S-Harinithin/investment-research-agent)
+### 01 · Investment Research Agent
 
-An AI-based stock assistant that helps fetch details about **stocks, crypto, and forex**—bringing multiple financial research needs into one place.
+An AI-based stock assistant that helps fetch details about **stocks, crypto, and forex**.
 
-**Python · AI · Financial Research**
+`Python` `AI` `Financial Research`
+
+[View repository →](https://github.com/P-S-Harinithin/investment-research-agent)
 
 </td>
 <td width="50%" valign="top">
 
-### 02 · [WEAVER-PRO](https://github.com/P-S-Harinithin/WEAVER-PRO-)
+### 02 · WEAVER-PRO
 
 A JavaScript-based web project created to transform a practical business idea into a digital product.
 
-**JavaScript · Web Development**
+`JavaScript` `Web Development`
+
+[View repository →](https://github.com/P-S-Harinithin/WEAVER-PRO-)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03 · [AI Firewall Detect](https://github.com/P-S-Harinithin/ai-firewall-detect)
+### 03 · AI Firewall Detect
 
 A JavaScript project exploring intelligent detection of potential security threats.
 
-**JavaScript · AI · Cybersecurity**
+`JavaScript` `AI` `Cybersecurity`
+
+[View repository →](https://github.com/P-S-Harinithin/ai-firewall-detect)
 
 </td>
 <td width="50%" valign="top">
 
-### 04 · [Smart Attendance RFID](https://github.com/P-S-Harinithin/Smart-Attendance-RFID)
+### 04 · Smart Attendance RFID
 
-An embedded attendance project using RFID-based identification, created to explore connected hardware systems.
+An embedded attendance project using RFID-based identification to explore connected hardware systems.
 
-**ESP32 · Arduino · RFID · IoT**
+`ESP32` `Arduino` `RFID` `IoT`
+
+[View repository →](https://github.com/P-S-Harinithin/Smart-Attendance-RFID)
 
 </td>
 </tr>
@@ -105,39 +129,39 @@ An embedded attendance project using RFID-based identification, created to explo
 
 <div align="center">
 
-[![View repositories](https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-18181B?style=for-the-badge&logo=github&logoColor=5EEAD4)](https://github.com/P-S-Harinithin?tab=repositories)
+<a href="https://github.com/P-S-Harinithin?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-18181B?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="View all repositories" /></a>
 
 </div>
 
 ---
 
-## How I think
+## My build process
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%"><br />🔎<br /><b>Understand</b><br /><sub>Find the real problem.</sub><br /><br /></td>
-<td align="center" width="33%"><br />🛠️<br /><b>Build</b><br /><sub>Make a useful first version.</sub><br /><br /></td>
-<td align="center" width="33%"><br />↗️<br /><b>Refine</b><br /><sub>Debug, learn, improve.</sub><br /><br /></td>
+<td align="center" width="33%"><br />🛠️<br /><b>Build</b><br /><sub>Create a useful first version.</sub><br /><br /></td>
+<td align="center" width="33%"><br />↗️<br /><b>Refine</b><br /><sub>Debug, learn, and improve.</sub><br /><br /></td>
 </tr>
 </table>
 
 </div>
 
+> My favourite kind of project starts as a question and ends as something another person can actually use.
+
 ---
 
-## Now in the lab
+## Currently exploring
 
 ```text
-[██████████████████░░]  AI agents & financial applications
+[██████████████████░░]  AI agents and financial applications
 [███████████████░░░░░]  Full-stack architecture
 [████████████░░░░░░░░]  Cloud deployment and DevOps
 [███████████░░░░░░░░░]  Embedded systems and IoT
 [█████████░░░░░░░░░░░]  PCB design
 ```
-
-> My favourite kind of project starts as a question and ends as something another person can actually use.
 
 ---
 
@@ -166,12 +190,10 @@ An embedded attendance project using RFID-based identification, created to explo
 
 **Java · AI · Full Stack · Embedded Systems**
 
-[![Contact me](https://img.shields.io/badge/CONTACT_HARINITHIN-FF6B6B?style=for-the-badge&logo=minutemailer&logoColor=FFFFFF)](mailto:harinithinps@gmail.com)
+<a href="mailto:harinithinps@gmail.com"><img src="https://img.shields.io/badge/CONTACT_HARINITHIN-FF6B6B?style=for-the-badge&logo=minutemailer&logoColor=FFFFFF" alt="Contact Harinithin" /></a>
 
-<br />
+<br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=P-S-Harinithin&label=VISITORS&color=A78BFA&style=flat-square" alt="Profile visitors" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:312E81,100:09090B&height=100&section=footer" width="100%" alt="Profile footer" />
 
 </div>
