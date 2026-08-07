@@ -1,47 +1,58 @@
 <div align="center">
 
-# Harinithin P S
+<!-- Animated name -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=42&duration=2200&pause=1200&color=5EEAD4&center=true&vCenter=true&width=760&height=70&lines=Harinithin+P+S" alt="Animated name" />
 
-### ECE Engineer · Software Builder · AI & Embedded Systems Explorer
+<!-- Animated role and identity -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=18&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=850&height=90&lines=ECE+Engineer+%7C+Software+Builder;Designing+systems+with+code+and+circuits;Analyzing+data+%7C+Building+AI+%7C+Connecting+hardware;Java+%2B+Python+%2B+JavaScript+%2B+ESP32" alt="Animated role" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2600&pause=1000&color=5EEAD4&center=true&vCenter=true&width=760&lines=Building+at+the+intersection+of+code+and+circuits;AI+agents%2C+FinTech+tools%2C+and+useful+products;Java+%2B+Python+%2B+JavaScript+%2B+ESP32" alt="Animated profile introduction" />
+<br />
 
 <a href="mailto:harinithinps@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-FF6B6B?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-A78BFA?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
 <a href="https://github.com/P-S-Harinithin"><img src="https://img.shields.io/badge/GITHUB-5EEAD4?style=for-the-badge&logo=github&logoColor=09090B" alt="GitHub" /></a>
 
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=P-S-Harinithin&label=LIVE%20VISITORS&color=FF6B6B&style=for-the-badge" alt="Profile visitors" />
+
 </div>
 
 ---
 
-## About me
+<div align="center">
 
-I’m **Harinithin**, an Electronics and Communication Engineering student who enjoys turning practical problems into software, intelligent tools, and connected prototypes.
+## ✦ A digital workspace for ideas, experiments, and useful products ✦
 
-My interests sit at the intersection of **web development, artificial intelligence, financial technology, cybersecurity, and embedded systems**. I learn by building, testing, debugging, and continuously improving real projects.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2400&pause=700&color=FBBF24&center=true&vCenter=true&width=820&height=40&lines=%5B+designing+%5D+%5B+analyzing+%5D+%5B+building+%5D+%5B+refining+%5D" alt="Animated workflow" />
+
+</div>
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-### Current coordinates
+## Hello, I’m Harinithin
 
-📍 India  
-🎓 ECE · VSB Engineering College  
-💻 Java · Python · JavaScript  
-🔭 AI · FinTech · IoT  
-⚙️ Always building
+I’m an Electronics and Communication Engineering student who enjoys turning practical problems into software, intelligent tools, and connected prototypes.
+
+My work lives between **web development, AI, financial technology, cybersecurity, and embedded systems**. I learn by building real projects, understanding failures, and improving one version at a time.
 
 </td>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-### What I enjoy building
+## Live status
 
-- AI-powered research tools
-- Full-stack web applications
-- Cybersecurity experiments
-- RFID and IoT prototypes
-- Practical software for real users
+```text
+┌─────────────────────────┐
+│  SYSTEM STATUS: ONLINE  │
+├─────────────────────────┤
+│  MODE     : BUILD       │
+│  SIGNAL   : CONNECTED   │
+│  FOCUS    : AI + IoT    │
+│  ENERGY   : CURIOUS     │
+└─────────────────────────┘
+```
 
 </td>
 </tr>
@@ -49,79 +60,54 @@ My interests sit at the intersection of **web development, artificial intelligen
 
 ---
 
-## Technology stack
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-18181B?style=for-the-badge&logo=openjdk&logoColor=FF6B6B)
-![Python](https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=5EEAD4)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=FBBF24)
-![React](https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-18181B?style=for-the-badge&logo=flask&logoColor=FFFFFF)
-![MySQL](https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=60A5FA)
-![Arduino](https://img.shields.io/badge/Arduino-18181B?style=for-the-badge&logo=arduino&logoColor=5EEAD4)
-![Git](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F97316)
-
-</div>
-
-| Area | Technologies |
-|---|---|
-| Programming | Java, Python, JavaScript, Embedded C, SQL |
-| Web development | React, Vite, Flask, HTML, CSS |
-| AI and data | AI tools, stock analysis, chatbots, data analysis |
-| Embedded systems | ESP32, Arduino, RFID, GPS |
-| Tools | Git, GitHub, MySQL, Arduino IDE, PCB Design |
-
----
-
-## Featured projects
+## ✦ Selected builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 · Investment Research Agent
+### 📈 Investment Research Agent
 
 An AI-based stock assistant that helps fetch details about **stocks, crypto, and forex**.
 
 `Python` `AI` `Financial Research`
 
-[View repository →](https://github.com/P-S-Harinithin/investment-research-agent)
+[Explore the system →](https://github.com/P-S-Harinithin/investment-research-agent)
 
 </td>
 <td width="50%" valign="top">
 
-### 02 · WEAVER-PRO
+### 🧵 WEAVER-PRO
 
 A JavaScript-based web project created to transform a practical business idea into a digital product.
 
 `JavaScript` `Web Development`
 
-[View repository →](https://github.com/P-S-Harinithin/WEAVER-PRO-)
+[Explore the system →](https://github.com/P-S-Harinithin/WEAVER-PRO-)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03 · AI Firewall Detect
+### 🛡️ AI Firewall Detect
 
 A JavaScript project exploring intelligent detection of potential security threats.
 
 `JavaScript` `AI` `Cybersecurity`
 
-[View repository →](https://github.com/P-S-Harinithin/ai-firewall-detect)
+[Explore the system →](https://github.com/P-S-Harinithin/ai-firewall-detect)
 
 </td>
 <td width="50%" valign="top">
 
-### 04 · Smart Attendance RFID
+### 📡 Smart Attendance RFID
 
 An embedded attendance project using RFID-based identification to explore connected hardware systems.
 
 `ESP32` `Arduino` `RFID` `IoT`
 
-[View repository →](https://github.com/P-S-Harinithin/Smart-Attendance-RFID)
+[Explore the system →](https://github.com/P-S-Harinithin/Smart-Attendance-RFID)
 
 </td>
 </tr>
@@ -129,43 +115,69 @@ An embedded attendance project using RFID-based identification to explore connec
 
 <div align="center">
 
-<a href="https://github.com/P-S-Harinithin?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-18181B?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="View all repositories" /></a>
+<a href="https://github.com/P-S-Harinithin?tab=repositories"><img src="https://img.shields.io/badge/OPEN_THE_FULL_WORKSPACE-18181B?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="Open all repositories" /></a>
 
 </div>
 
 ---
 
-## My build process
+## ✦ Creative engineering loop
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%"><br />🔎<br /><b>Understand</b><br /><sub>Find the real problem.</sub><br /><br /></td>
-<td align="center" width="33%"><br />🛠️<br /><b>Build</b><br /><sub>Create a useful first version.</sub><br /><br /></td>
-<td align="center" width="33%"><br />↗️<br /><b>Refine</b><br /><sub>Debug, learn, and improve.</sub><br /><br /></td>
+<td align="center" width="25%"><br />🌌<br /><b>Imagine</b><br /><sub>Explore the possibility.</sub><br /><br /></td>
+<td align="center" width="25%"><br />🧠<br /><b>Analyze</b><br /><sub>Understand the problem.</sub><br /><br /></td>
+<td align="center" width="25%"><br />⚙️<br /><b>Design</b><br /><sub>Shape the solution.</sub><br /><br /></td>
+<td align="center" width="25%"><br />🚀<br /><b>Launch</b><br /><sub>Make it useful.</sub><br /><br /></td>
 </tr>
 </table>
 
 </div>
 
-> My favourite kind of project starts as a question and ends as something another person can actually use.
+---
+
+## ✦ Technology constellation
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-09090B?style=for-the-badge&logo=openjdk&logoColor=FF6B6B)
+![Python](https://img.shields.io/badge/Python-09090B?style=for-the-badge&logo=python&logoColor=5EEAD4)
+![JavaScript](https://img.shields.io/badge/JavaScript-09090B?style=for-the-badge&logo=javascript&logoColor=FBBF24)
+![React](https://img.shields.io/badge/React-09090B?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-09090B?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-09090B?style=for-the-badge&logo=mysql&logoColor=60A5FA)
+![Arduino](https://img.shields.io/badge/Arduino-09090B?style=for-the-badge&logo=arduino&logoColor=5EEAD4)
+![Git](https://img.shields.io/badge/Git-09090B?style=for-the-badge&logo=git&logoColor=F97316)
+
+<br /><br />
+
+<img src="https://skillicons.dev/icons?i=java,python,js,react,vite,flask,mysql,arduino,git,github&perline=10" alt="Technology icons" />
+
+</div>
 
 ---
 
-## Currently exploring
+## ✦ What is running now
 
 ```text
-[██████████████████░░]  AI agents and financial applications
-[███████████████░░░░░]  Full-stack architecture
-[████████████░░░░░░░░]  Cloud deployment and DevOps
-[███████████░░░░░░░░░]  Embedded systems and IoT
-[█████████░░░░░░░░░░░]  PCB design
+┌─────────────────────────────────────────────────────────────┐
+│  LIVE DEVELOPMENT STREAM                                    │
+├─────────────────────────────────────────────────────────────┤
+│  [■■■■■■■■■■■■■■■■■■□□]  AI agents and financial tools    │
+│  [■■■■■■■■■■■■■■■■□□□]  Full-stack architecture           │
+│  [■■■■■■■■■■■■■■□□□□□]  Cloud deployment and DevOps       │
+│  [■■■■■■■■■■■■□□□□□□□]  Embedded systems and IoT          │
+│  [■■■■■■■■■■□□□□□□□□□]  PCB design                          │
+└─────────────────────────────────────────────────────────────┘
 ```
+
+> The goal is not to build something that only looks impressive. The goal is to build something that becomes useful.
 
 ---
 
-## GitHub activity
+## ✦ GitHub live analytics
 
 <div align="center">
 
@@ -186,7 +198,7 @@ An embedded attendance project using RFID-based identification to explore connec
 
 <div align="center">
 
-### Have a problem worth building around?
+## Let’s build the next useful thing
 
 **Java · AI · Full Stack · Embedded Systems**
 
@@ -194,6 +206,6 @@ An embedded attendance project using RFID-based identification to explore connec
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=P-S-Harinithin&label=VISITORS&color=A78BFA&style=flat-square" alt="Profile visitors" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2300&pause=900&color=A78BFA&center=true&vCenter=true&width=680&height=35&lines=Thanks+for+visiting+my+workspace+%E2%9C%A8;More+ideas+are+loading..." alt="Animated closing message" />
 
 </div>
