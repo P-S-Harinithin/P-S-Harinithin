@@ -1,17 +1,18 @@
 <div align="center">
 
-<!-- Upload hps_cyber_grid.svg to an assets folder in this repository, then keep this path. -->
-<img src="./assets/hps_cyber_grid.svg" width="100%" alt="HPS animated ethical hacking inspired workspace banner" />
+# Harinithin P S
 
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2400&pause=800&color=00F5D4&center=true&vCenter=true&width=760&height=40&lines=ECE+Engineer+%7C+Software+Builder;AI+%2B+FinTech+%2B+IoT;Designing+systems+%7C+Analyzing+data+%7C+Building+solutions" alt="Animated profile tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2400&pause=800&color=00F5D4&center=true&vCenter=true&width=760&height=40&lines=Designing+systems;Analyzing+data;Building+smart+tools;Connecting+code+with+circuits" alt="Animated profile tagline" />
 
 <br />
 
 <a href="mailto:harinithinps@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-00F5D4?style=for-the-badge&logo=gmail&logoColor=050816" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
 <a href="https://github.com/P-S-Harinithin"><img src="https://img.shields.io/badge/GITHUB-FF4ECD?style=for-the-badge&logo=github&logoColor=050816" alt="GitHub" /></a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=P-S-Harinithin&label=LIVE%20VISITORS&color=FF4ECD&style=for-the-badge" alt="Profile visitors" />
 
 </div>
 
@@ -21,11 +22,11 @@
 
 I’m **Harinithin P S**, an Electronics and Communication Engineering student building at the intersection of **software, AI, financial technology, cybersecurity, and embedded systems**.
 
-I enjoy transforming ideas into working products—from an AI assistant for stocks, crypto, and forex to web applications and RFID-based connected systems.
+I enjoy turning practical problems into useful digital products, analyzing data, creating intelligent tools, and connecting software with real-world hardware.
 
 ```text
 ┌──────────────────────────────────────────────────────┐
-│  PROFILE STATUS                                      │
+│  H P S // LIVE WORKSPACE                            │
 ├──────────────────────────────────────────────────────┤
 │  identity : ECE engineer + software builder          │
 │  location : India                                    │
@@ -45,7 +46,7 @@ I enjoy transforming ideas into working products—from an AI assistant for stoc
 
 ### 📈 Investment Research Agent
 
-AI-based stock assistant that helps fetch details about **stocks, crypto, and forex**.
+An AI-based stock assistant that helps fetch details about **stocks, crypto, and forex**.
 
 `Python` `AI` `Financial Research`
 
@@ -56,7 +57,7 @@ AI-based stock assistant that helps fetch details about **stocks, crypto, and fo
 
 ### 🧵 WEAVER-PRO
 
-JavaScript-based web project created to transform a practical business idea into a digital product.
+A JavaScript-based web project created to transform a practical business idea into a digital product.
 
 `JavaScript` `Web Development`
 
@@ -69,7 +70,7 @@ JavaScript-based web project created to transform a practical business idea into
 
 ### 🛡️ AI Firewall Detect
 
-JavaScript project exploring intelligent detection of potential security threats.
+A JavaScript project exploring intelligent detection of potential security threats.
 
 `JavaScript` `AI` `Cybersecurity`
 
@@ -80,7 +81,7 @@ JavaScript project exploring intelligent detection of potential security threats
 
 ### 📡 Smart Attendance RFID
 
-Embedded attendance project using RFID-based identification to explore connected hardware systems.
+An embedded attendance project using RFID-based identification to explore connected hardware systems.
 
 `ESP32` `Arduino` `RFID` `IoT`
 
@@ -89,6 +90,12 @@ Embedded attendance project using RFID-based identification to explore connected
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<a href="https://github.com/P-S-Harinithin?tab=repositories"><img src="https://img.shields.io/badge/OPEN_ALL_REPOSITORIES-18181B?style=for-the-badge&logo=github&logoColor=00F5D4" alt="Open all repositories" /></a>
+
+</div>
 
 ---
 
@@ -107,20 +114,46 @@ Embedded attendance project using RFID-based identification to explore connected
 
 </div>
 
+| Area | Technologies |
+|---|---|
+| Programming | Java, Python, JavaScript, Embedded C, SQL |
+| Web development | React, Vite, Flask, HTML, CSS |
+| AI and data | AI tools, stock analysis, chatbots, data analysis |
+| Embedded systems | ESP32, Arduino, RFID, GPS |
+| Tools | Git, GitHub, MySQL, Arduino IDE, PCB Design |
+
 ---
 
 ## `workflow --live`
 
 <div align="center">
 
-| 01 | 02 | 03 | 04 |
-|:---:|:---:|:---:|:---:|
-| 🔎 **Analyze** | 🎨 **Design** | ⚙️ **Build** | 🚀 **Refine** |
-| Understand the problem | Shape the system | Create the solution | Improve the result |
+<table>
+<tr>
+<td align="center" width="25%"><br />🔎<br /><b>Analyze</b><br /><sub>Understand the problem.</sub><br /><br /></td>
+<td align="center" width="25%"><br />🎨<br /><b>Design</b><br /><sub>Shape the system.</sub><br /><br /></td>
+<td align="center" width="25%"><br />⚙️<br /><b>Build</b><br /><sub>Create the solution.</sub><br /><br /></td>
+<td align="center" width="25%"><br />🚀<br /><b>Refine</b><br /><sub>Improve the result.</sub><br /><br /></td>
+</tr>
+</table>
 
 </div>
 
 > The best projects start with curiosity and end with something useful.
+
+---
+
+## `currently_running`
+
+```text
+[██████████████████░░]  AI agents and financial tools
+[███████████████░░░░░]  Full-stack architecture
+[████████████░░░░░░░░]  Cloud deployment and DevOps
+[███████████░░░░░░░░░]  Embedded systems and IoT
+[█████████░░░░░░░░░░░]  PCB design
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2300&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=35&lines=ethical_mode%3A+true;curiosity_mode%3A+always_on;more_ideas%3A+loading..." alt="Animated status" />
 
 ---
 
@@ -149,6 +182,6 @@ Embedded attendance project using RFID-based identification to explore connected
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2300&pause=900&color=FF4ECD&center=true&vCenter=true&width=680&height=35&lines=ethical_mode%3A+true;curiosity_mode%3A+always_on;more_ideas%3A+loading..." alt="Animated closing status" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2300&pause=900&color=FF4ECD&center=true&vCenter=true&width=680&height=35&lines=Thanks+for+visiting+my+workspace+%E2%9C%A8;More+ideas+are+loading..." alt="Animated closing message" />
 
 </div>
